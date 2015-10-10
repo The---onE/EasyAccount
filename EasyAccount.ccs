@@ -1,0 +1,32 @@
+<Solution>
+  <PropertyGroup Name="EasyAccount" Version="2.2.1.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Main">
+          <Project Name="CashLayer.csd" Type="Layer" />
+          <Image Name="Down.png" />
+          <Project Name="MainScene.csd" Type="Scene" />
+          <Image Name="Up.png" />
+          <Project Name="CyberLayer.csd" Type="Layer" />
+          <Project Name="CardLayer.csd" Type="Layer" />
+          <Project Name="ResetLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="Account">
+          <Project Name="CashDownScene.csd" Type="Scene" />
+          <Project Name="CardUpScene.csd" Type="Scene" />
+          <Project Name="CyberUpScene.csd" Type="Scene" />
+          <Project Name="CashUpScene.csd" Type="Scene" />
+          <Project Name="CardDownScene.csd" Type="Scene" />
+          <Project Name="CyberDownScene.csd" Type="Scene" />
+          <Project Name="TimeScene.csd" Type="Scene" />
+          <Project Name="SettingScene.csd" Type="Scene" />
+          <Project Name="ResetScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="List">
+          <Project Name="ListScene.csd" Type="Scene" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
